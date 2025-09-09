@@ -5,7 +5,7 @@
 //Identifier:-A name in Java Program is called Identifier which can be used for identification purpose.It can be used for naming variables,methods,classes,packages and interfaces.
 
 /*
-Ex:-
+Ex:-How many identifiers are there in the below program and what are they?
 class Test
 {
     public static void main(String args[])
