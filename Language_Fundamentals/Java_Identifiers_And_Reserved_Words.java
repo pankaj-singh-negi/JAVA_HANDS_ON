@@ -40,7 +40,7 @@ Ex:- 1number   ----->invalid
 
 
 3.Java Identifiers are case sensitive of course java language itself is treated as case sensitive language.
-Ex:- Number,number,NUMBER are three different identifiers.(We can diffrentiate wrt case sensitivity)
+Ex:- Number,number,NUMBER are three different identifiers.(We can differentiate wrt case sensitivity)
 
 4.There is no length limit for identifiers in Java.But it is not recommended to take too lengthy identifiers.
 Ex:- a,ab,abc,abcd,abcde,abcdef,abcdefgh,abcdefghi,abcdefghij,abcdefghijklmno,pqrstuvwxyz are all valid identifiers.
